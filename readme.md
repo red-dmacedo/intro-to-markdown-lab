@@ -7,7 +7,7 @@ This guide will assist you in setting up your environment so that you can run yo
 ## Requirements
 - A Windows 🪟 computer 
   - This particular *`.ps1`* file relies on the `Get-CimInstance` cmdlet which is only available on windows computers.
-  - Read up on `Get-CimInstance` [on Mcrosoft's website.][Cim-Instance]
+  - Read up on `Get-CimInstance` [on Mcrosoft's website.](https://learn.microsoft.com/en-us/powershell/module/cimcmdlets/get-ciminstance?view=powershell-7.5)
 - Powershell `5.0` or higher
 
 ## Setup
@@ -48,5 +48,3 @@ There are a few ways to run a *`.ps1`* file on the command line. Here are 2.
       - A restart of your shell will be required if your changes were made with powershell open.
     - Type the name of your *`.ps1`* file
       - Example: `Get-HDD.ps1`
-
-[Cim-Instance]: (https://learn.microsoft.com/en-us/powershell/module/cimcmdlets/get-ciminstance?view=powershell-7.5)
