@@ -1,5 +1,5 @@
 [Cim-Instance]: (https://learn.microsoft.com/en-us/powershell/module/cimcmdlets/get-ciminstance?view=powershell-7.5)
-![env]: (./images/Environment Variables.png)
+![env](./images/Environment Variables.png)
 # Setting Up Your Environment
 This guide will assist you in setting up your environment so that you can run your *`.ps1`* files from *anywhere* on the command line.
 
