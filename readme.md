@@ -1,4 +1,3 @@
-[Cim-Instance]: (https://learn.microsoft.com/en-us/powershell/module/cimcmdlets/get-ciminstance?view=powershell-7.5)
 # Setting Up Your Environment
 This guide will assist you in setting up your environment so that you can run your *`.ps1`* files from *anywhere* on the command line.
 ## Disclaimer
@@ -49,3 +48,5 @@ There are a few ways to run a *`.ps1`* file on the command line. Here are 2.
       - A restart of your shell will be required if your changes were made with powershell open.
     - Type the name of your *`.ps1`* file
       - Example: `Get-HDD.ps1`
+
+[Cim-Instance]: (https://learn.microsoft.com/en-us/powershell/module/cimcmdlets/get-ciminstance?view=powershell-7.5)
