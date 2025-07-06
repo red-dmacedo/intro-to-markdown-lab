@@ -21,7 +21,7 @@ The `PATH` is an environment variable which your computer uses to seach for exec
 - Select "Edit the system Environment Variables"
 - With the new "Properties" window open, select "Environment Variables..."
 - User vs. System Variables
-  ![env-1](./images/Environment%20Variables.png)
+  ![env-1](./images/EnvironmentVariables.png)
   - User
     - The `PATH` variable defined in the **user** space will only be accessible when you are logged in as the current user. This means that if you need to run anything as an **administrator** or as a different **user**, these `paths` will *not* be available.
   - System
